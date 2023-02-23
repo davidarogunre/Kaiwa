@@ -1,38 +1,28 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+---
+name: "@davidarogunre"
+project: "Chat Robot Implemented with Chat GPT-3"
+---
 
-## Getting Started
+# Charlie(Chat Robot)
 
-First, run the development server:
+## Summary
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+Chat Robot Implemented with Chat GPT-3 is an exciting project. My project will be to create a chatbot that can interact with users in a natural, conversational way, powered by the cutting-edge GPT-3 technology. I am excited because I will learn how to use hardware components to build the chatbot The chatbot will be able to respond to users with personalized, human-like conversations, making it a great way to engage users in an interactive experience. I believe that this project will give me an exciting experience, and will give me a chance to learn about and implement cutting-edge technology.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Plan
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+The first step I would take is to set up the hardware for the bot, including the Raspberry Pi and its position in the container. Then I would work on the software, coding the Chat GPT-3 and listening libraries to interpret commands and provide answers to the user. Once the code is installed in the Raspberry Pi, I would perform tests to ensure that the code and hardware are functioning correctly.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+## Budget
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+| Product           | Supplier/Link                                                      | Cost   |
+| ----------------- | ------------------------------------------------------------------ | ------ |
+| Raspberry Pi 4    | https://thepihut.com/products/raspberry-pi-3-model-b-plus          | $76.44 |
+| USB Microphone    | https://www.amazon.com/gp/product/B074BLM973/                      | $22.99 |
+| 3.5mm Jack Speaker| https://www.amazon.com/Portable-Speaker-Mobile-Interface-Smartphone/dp/B0824HK17J/                                                                              | $14.99 |
+| RPI Power Supply  |https://www.amazon.com/Listed-iUniker-Raspberry-Supply-Switch/dp/B0B79FVPQ4/                                                                              | $8.99  |
+| Sd Card           |https://www.amazon.com/Lexar-Micro-microSDHC-Memory-Adapter/dp/B09JNL9VSR/                                                                              | $11.99 |
+| Sd card reader    |https://www.amazon.com/gp/product/B06Y1G18KS                                                                               | $16.99 |
+| Shipping          |                                                                    | $32.17 |
+| Import Fees       |                                                                    | $27.68 |
+| Total             |                                                                    | $212.15|
